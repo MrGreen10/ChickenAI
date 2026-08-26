@@ -6,4 +6,5 @@ Bu proje altyapı olması amacıyla tasarlandı lütfen dertlerinizi anlatmayın
 ChickenAI anahtar kelimeleri yakalayıp cevap hazırlamak için anahtar kelimeyle eşleştirilen kelimeleri seçerek(giriş,gelişme,sonuç olarak ama bazen giriş,sonuç olabiliyor.) cevap oluşturur.
 # İstatistikler
 <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/MrGreen10/ChickenAI/total?logoColor=%230000">
+
 ![GitHub Forks](https://img.shields.io/github/forks/MrGreen10/ChickenAI?style=flat)
