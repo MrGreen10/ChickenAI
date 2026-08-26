@@ -42,7 +42,7 @@ int main() {
         else if (kc.find("nasilsin") != string::npos || kc.find("nas�ls�n") != string::npos) { // nasılsın kelimesi için seçilmiş kelimeler
             sayi++;
             sayi2++;
-            om = kc; // kc = om yerine om = kc mant�kl� olan�d�r
+            om = kc;
             if (sayi == 1)   yzc += "Ben iyiyim";
             if (sayi == 2)   yzc += "Sordugun icin sagol " + ad;
             if (sayi2 == 1)  yzc += " sen nasilsin " + ad;
