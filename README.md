@@ -1,5 +1,5 @@
 # ChickenAI
-ChickenAI harici kütüphane bağımlılığı olmayan C++ ile yazılmış bir kural tabanlı karar motoru projesidir hem son kullanıcı hem de benden daha iyi kod yazanlara altyapı olması amacıyla tasarlandı.
+ChickenAI harici kütüphane bağımlılığı olmayan C++ ile yazılmış bir kural tabanlı karar motoru projesidir  benden daha iyi kod yazanlara altyapı olması amacıyla tasarlandı.
 # Sorumluluk Reddi
 Bu proje altyapı olması amacıyla tasarlandı lütfen dertlerinizi anlatmayın.Dertleriniz için profesyonel destek alın yada bir yakınınızla konuşabilirsiniz.Kendinize zarar verme veya intihar durumlarından kodu yazan kişi sorumlu değildir.
 # Proje Hakkında
