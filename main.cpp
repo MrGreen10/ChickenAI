@@ -2,7 +2,7 @@
 #include <string>
 
 using namespace std;
-
+//MrGreen10 tarafından geliştirilmiştir. 
 int main() {
     string kc = ""; //kullancı mesajı
     string yzc = ""; //botun cevabı
