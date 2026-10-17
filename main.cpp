@@ -3,6 +3,7 @@
 
 using namespace std;
 //MrGreen10 tarafından geliştirilmiştir. 
+//GNU-V3.0 ile lisanslanmıştır. 
 int main() {
     string kc = ""; //kullancı mesajı
     string yzc = ""; //botun cevabı
